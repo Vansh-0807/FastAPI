@@ -1,4 +1,5 @@
-{"P001" : {"name": "Vansh", "city": "Korba", "age" : 20, "gender" : "male", "height" : 1.65, "weight": 90.0, "bmi" : 33.06, "verdict"  : "obesity"},
+{
+"P001" : {"name": "Vansh", "city": "Korba", "age" : 20, "gender" : "male", "height" : 1.65, "weight": 90.0, "bmi" : 33.06, "verdict"  : "obesity"},
 "P002" : {"name": "Harsh", "city" : "Raipur", "age" : 20, "gender" : "male", "height" : 1.34, "weight" : 69, "bmi" : 22.3, "verdict": "Overweight" },
 "P003" : {"name" : "Divyansh", "city": "Korba", "age" : 19, "gender" : "male", "height" : 1.2, "weight" : 47, "bmi" : 33.2, "verdict" : "Underweight"}, 
 "P004" : {"name" : "Sankalp", "city" : "Raigarh", "age" : 19, "gender" : "male", "height" : 1.1, "wwight" : 91, "bmi" : 44.2, "verdict" : "Overweight"},  
