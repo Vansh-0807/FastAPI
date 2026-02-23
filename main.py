@@ -4,7 +4,7 @@ import json
 app = FastAPI()
 
 def load_data():
-    with open('patients.json', 'r') as f:
+    with open('patients.json', 'r') as f: #automatically close the file when it is opened
         data = json.load(f)
     return data
 
