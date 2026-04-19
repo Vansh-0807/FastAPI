@@ -5,7 +5,7 @@ API_URL = "http://localhost:8000/predict"
 
 st.title("Insurance Premium Cataegory Predictor")
 
-st.title("Enter your details below")
+st.subheader("Enter your details below")
 
 age = st.number_input("Age", min_value=1, max_value=119, value=30)
 weight = st.number_input("Weight(in kg)", min_value=1.0, value = 65.0)
